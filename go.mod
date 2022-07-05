@@ -1,4 +1,4 @@
-module poketto
+module github.com/entertainment-venue/poketto
 
 go 1.14
 
